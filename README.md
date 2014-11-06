@@ -9,7 +9,7 @@ Here at Crazy will have a specific workflow that we use to make great products.
 
 [Integration-Manager Workflow](docs/more_words.md) - We use a common workflow here on github that make it possible for everyone to work on the same project at the same time.
  
- ## Code Standards 
+#### Code Standards 
 
 [HTML Code](docs/more_words.md) - We use a common workflow here on github that make it possible for everyone to work on the same project at the same time. 
 
